@@ -12,32 +12,32 @@
 
 ### Search
 
-##### Linear
-* [Algorithm 1](src/main/java/org/datastructure/search/linear/LinearSearch.png)
-* [Example](src/main/java/org/datastructure/search/linear/LinearSearch.java)
+* Linear
+    * [Algorithm 1](src/main/java/org/datastructure/search/linear/LinearSearch.png)
+    * [Example](src/main/java/org/datastructure/search/linear/LinearSearch.java)
 
-##### Binary
-* [Algorithm 1](src/main/java/org/datastructure/search/binary/BinarySearch.png)
-* [Algorithm 2](src/main/java/org/datastructure/search/binary/BinaryRecursiveSearch.png)
-* [Example](src/main/java/org/datastructure/search/binary/BinarySearch.java)
+* Binary
+    * [Algorithm 1](src/main/java/org/datastructure/search/binary/BinarySearch.png)
+    * [Algorithm 2](src/main/java/org/datastructure/search/binary/BinaryRecursiveSearch.png)
+    * [Example](src/main/java/org/datastructure/search/binary/BinarySearch.java)
 
 
 
 ### Sort
 
-#### Selection
-* [Algorithm 1](src/main/java/org/datastructure/sort/selection/SelectionSort.png)
-* [Example](src/main/java/org/datastructure/sort/selection/SelectionSort.java)
+* Selection
+    * [Algorithm 1](src/main/java/org/datastructure/sort/selection/SelectionSort.png)
+    * [Example](src/main/java/org/datastructure/sort/selection/SelectionSort.java)
 
-#### Insertion
-* [Algorithm 1](src/main/java/org/datastructure/sort/insertion/InsertionSort.png)
-* [Example](src/main/java/org/datastructure/sort/insertion/InsertionSort.java)
+* Insertion
+    * [Algorithm 1](src/main/java/org/datastructure/sort/insertion/InsertionSort.png)
+    * [Example](src/main/java/org/datastructure/sort/insertion/InsertionSort.java)
 
-#### Quick
-* [Algorithm 1](src/main/java/org/datastructure/sort/quick/QuickSort.png)
-* [Example](src/main/java/org/datastructure/sort/quick/QuickSort.java)
+* Quick
+    * [Algorithm 1](src/main/java/org/datastructure/sort/quick/QuickSort.png)
+    * [Example](src/main/java/org/datastructure/sort/quick/QuickSort.java)
 
-#### Merge
-* [Algorithm 1](src/main/java/org/datastructure/sort/merge/MergeSort1.png)
-* [Algorithm 2](src/main/java/org/datastructure/sort/merge/MergeSort2.png)
-* [Example](src/main/java/org/datastructure/sort/merge/MergeSort.java)
+* Merge
+    * [Algorithm 1](src/main/java/org/datastructure/sort/merge/MergeSort1.png)
+    * [Algorithm 2](src/main/java/org/datastructure/sort/merge/MergeSort2.png)
+    * [Example](src/main/java/org/datastructure/sort/merge/MergeSort.java)

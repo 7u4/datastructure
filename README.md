@@ -41,3 +41,8 @@
     * [Algorithm 1](src/main/java/org/datastructure/sort/merge/MergeSort1.png)
     * [Algorithm 2](src/main/java/org/datastructure/sort/merge/MergeSort2.png)
     * [Example](src/main/java/org/datastructure/sort/merge/MergeSort.java)
+
+
+##### Recommended:
+
+[practical-data-structures-algorithms-in-java](https://www.udemy.com/practical-data-structures-algorithms-in-java/)
